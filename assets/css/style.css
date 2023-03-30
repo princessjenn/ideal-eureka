@@ -22,10 +22,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* this needed to be changed because the semantic html was changed */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* this needed to be changed because the semantic html was changed, and semantic element nav was given */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* this needed to be changed because the semantic html was changed, and semantic element nav was given */
 header nav ul {
     list-style-type: none;
 }
 
+/* this needed to be changed because the semantic html was changed, and semantic element nav was given */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -155,7 +159,7 @@ section {
     color: #ffffff;
 }
 
-.social-media-marketing {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -168,7 +172,7 @@ section img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+section img {
     max-height: 200px;
 }
 
@@ -181,7 +185,7 @@ section h2 {
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
