@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* this needed to be changed to semantic html to display where the header of the html file is */ 
+/* this needed to be changed into semantic html to display where the header of the html file is */ 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
