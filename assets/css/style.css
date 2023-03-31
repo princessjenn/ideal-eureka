@@ -82,8 +82,7 @@ main {
     margin-left: 20px;
 }
 
-/* this needed to be changed because the semantic element aside was given*/
-aside {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -142,7 +141,7 @@ aside {
     max-width: 150px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
+/* this needed to be changed because the*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,7 +151,6 @@ section {
     color: #ffffff;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,7 +160,6 @@ section {
     color: #ffffff;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -172,34 +169,28 @@ section {
     color: #ffffff;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section img {
     max-height: 200px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section img {
     max-height: 200px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section img {
     max-height: 200px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* this needed to be changed because the semantic element section was given*/
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
