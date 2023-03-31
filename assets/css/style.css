@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* this needed to be changed to semantic html */ 
+/* this needed to be changed to semantic html to display where the header of the html file is */ 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,13 +75,14 @@ p {
     margin-left: 25px;
 }
 
-/* this was changed to describe the main content of the page in html*/
+/* this was changed to a semantic html element to display the main content of the page in html*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* this was changed to a semantic html element to display the content on the side of the page in html*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -93,49 +94,20 @@ aside {
     background-color: #2589bd;
 }
 
+/* this was changed to semantic html to describe the child elements within the content on the side of the page */
 article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* this was changed to semantic html to describe the child elements within the content on the side of the page in html*/
 article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* this was changed to semantic html to describe the child elements within the content on the side of the page in html*/
 article img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -151,15 +123,18 @@ section {
     color: #ffffff;
 }
 
+/* this needed to be changed to describe child elements within the main element, using the semantic element sections */
 section img {
     max-height: 200px;
 }
 
+/* this needed to be changed to describe child elements within the main element, using the semantic element sections */
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* this needed to be changed to semantic html to describe the footer of the page */
 footer {
     padding: 30px;
     clear: both;
@@ -167,6 +142,7 @@ footer {
     text-align: center;
 }
 
+/* this needed to be changed to semantic html to describe the footer of the page */
 footer h2 {
     font-size: 20px;
 }
